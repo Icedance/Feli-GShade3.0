@@ -1,0 +1,4 @@
+Version: 3.0.0
+Based on ReShade: 4.7.0.846+ x64
+Based on ReShade: 4.7.0.845+ x86
+Release Date: 07/18/2020
